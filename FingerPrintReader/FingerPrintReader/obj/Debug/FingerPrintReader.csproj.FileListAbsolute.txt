@@ -1,0 +1,13 @@
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\Interop.GrFingerXLib.dll
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\FingerPrintReader.csproj.ResolveComReference.cache
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\FingerPrintReader.Form1.resources
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\FingerPrintReader.Properties.Resources.resources
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\FingerPrintReader.csproj.GenerateResource.Cache
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\bin\Debug\FingerPrintReader.exe
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\bin\Debug\FingerPrintReader.pdb
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\FingerPrintReader.exe
+C:\Users\shami\Documents\Visual Studio 2008\Projects\FingerPrintReader\FingerPrintReader\obj\Debug\FingerPrintReader.pdb
